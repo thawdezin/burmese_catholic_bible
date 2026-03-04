@@ -16,15 +16,11 @@
 
 #### 1. ဓမ္မသစ်ကျမ်း (New Testament)
 * **Download:** [nt.zip ကို ဒေါင်းလုဒ်ရန်](https://github.com/thawdezin/burmese_catholic_bible/blob/master/nt.zip?raw=true)
-* **Preview Image:**
-![New Testament Preview](https://github.com/thawdezin/burmese_catholic_bible/blob/master/nt.png?raw=true)
 
 ---
 
 #### 2. ဓမ္မဟောင်းကျမ်း (Old Testament)
 * **Download:** [ot.zip ကို ဒေါင်းလုဒ်ရန်](https://github.com/thawdezin/burmese_catholic_bible/blob/master/ot.zip?raw=true)
-* **Preview Image:**
-![Old Testament Preview](https://github.com/thawdezin/burmese_catholic_bible/blob/master/ot.png?raw=true)
 
 ---
 
