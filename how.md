@@ -1,0 +1,34 @@
+# 📖 Burmese Catholic Bible Project Guide
+
+ကက်သလစ်သမ္မာကျမ်းစာ Project မှ ကြိုဆိုပါတယ်ရှင့်။ စတင်အသုံးပြုသူများအတွက် လမ်းညွှန်ချက်များကို အောက်တွင် ဖတ်ရှုနိုင်ပါတယ်။
+
+### 📺 လေ့လာရန် ဗီဒီယိုများ (Video Tutorials)
+စတင်ခြင်းမပြုမီ အောက်ပါ Video လေးတွေကို အရင်ကြည့်ရှုပေးဖို့ အကြံပြုလိုပါတယ်ရှင့်။
+
+* **မိတ်ဆက် ဗီဒီယို:** [ဒီနေရာကိုနှိပ်၍ ကြည့်ပါ](https://www.youtube.com/watch?v=c142H5TK4Bc&t=29s)
+* **စတင်အသုံးပြုပုံ လမ်းညွှန်:** [ဒီနေရာကိုနှိပ်၍ ကြည့်ပါ](https://www.youtube.com/watch?v=cggI_fHpdME&t=8s)
+
+---
+
+### 📥 ဒေါင်းလုဒ်ရယူရန် (Downloads & Previews)
+
+ကျမ်းစာအပိုင်းအလိုက် အကြမ်းရေးသားပြီးသား File များကို အောက်ပါအတိုင်း ဒေါင်းလုဒ်ရယူနိုင်ပြီး နမူနာပုံစံများကိုလည်း တိုက်ရိုက်ကြည့်ရှုနိုင်ပါတယ်ရှင့်။
+
+#### 1. ဓမ္မသစ်ကျမ်း (New Testament)
+* **Download:** [nt.zip ကို ဒေါင်းလုဒ်ရန်](https://github.com/thawdezin/burmese_catholic_bible/blob/master/nt.zip?raw=true)
+* **Preview Image:**
+![New Testament Preview](https://github.com/thawdezin/burmese_catholic_bible/blob/master/nt.png?raw=true)
+
+---
+
+#### 2. ဓမ္မဟောင်းကျမ်း (Old Testament)
+* **Download:** [ot.zip ကို ဒေါင်းလုဒ်ရန်](https://github.com/thawdezin/burmese_catholic_bible/blob/master/ot.zip?raw=true)
+* **Preview Image:**
+![Old Testament Preview](https://github.com/thawdezin/burmese_catholic_bible/blob/master/ot.png?raw=true)
+
+---
+
+### 💬 အကူအညီတောင်းခံရန်
+အကယ်၍ အသုံးပြုရာတွင် အဆင်မပြေမှု တစ်စုံတစ်ရာရှိပါက သို့မဟုတ် သိလိုသည်များရှိပါက **အချိန်မရွေး** မေးမြန်းစုံစမ်းနိုင်ပါတယ်ရှင့်။
+
+> **Note:** ဝိုင်းဝန်းကူညီပေးကြတဲ့အတွက် အထူးပင် ကျေးဇူးတင်ရှိပါတယ်ရှင့်။
